@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bjmontillon/randomrecipe-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/bjmontillon/randomrecipe-app/static/js/main.81c10fed.chunk.js",
+    "main.js.map": "/bjmontillon/randomrecipe-app/static/js/main.81c10fed.chunk.js.map",
+    "runtime-main.js": "/bjmontillon/randomrecipe-app/static/js/runtime-main.02481ba6.js",
+    "runtime-main.js.map": "/bjmontillon/randomrecipe-app/static/js/runtime-main.02481ba6.js.map",
+    "static/js/2.22c73aae.chunk.js": "/bjmontillon/randomrecipe-app/static/js/2.22c73aae.chunk.js",
+    "static/js/2.22c73aae.chunk.js.map": "/bjmontillon/randomrecipe-app/static/js/2.22c73aae.chunk.js.map",
+    "static/js/3.0e9afa40.chunk.js": "/bjmontillon/randomrecipe-app/static/js/3.0e9afa40.chunk.js",
+    "static/js/3.0e9afa40.chunk.js.map": "/bjmontillon/randomrecipe-app/static/js/3.0e9afa40.chunk.js.map",
+    "index.html": "/bjmontillon/randomrecipe-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bjmontillon/randomrecipe-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.22c73aae.chunk.js.LICENSE.txt": "/bjmontillon/randomrecipe-app/static/js/2.22c73aae.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bjmontillon/randomrecipe-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02481ba6.js",
+    "static/js/2.22c73aae.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.81c10fed.chunk.js"
+  ]
+}
